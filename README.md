@@ -64,6 +64,7 @@ Notas:
 - Un usuario puede iniciar más de una sesión el mismo dia en la misma o en diferentes
 máquinas.
 - El archivo maestro debe crearse en la siguiente ubicación física: /var/log.
+
 5. A partir de un siniestro ocurrido se perdieron las actas de nacimiento y fallecimientos de
 toda la provincia de buenos aires de los últimos diez años. En pos de recuperar dicha
 información, se deberá procesar 2 archivos por cada una de las 50 delegaciones distribuidas
